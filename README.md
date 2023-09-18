@@ -1,0 +1,2 @@
+# Coredatademo
+ SwiftuiApp uses Coredata
